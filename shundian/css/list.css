@@ -1,0 +1,17 @@
+
+
+#list{overflow: hidden;width:101%;margin-left:70px;}
+#list .picture{width:290px;float:left;background:#fff;margin:12px 12px 0 0;height:370px;}
+#list .picture img{width:215px;height:215px;display:block;margin:20px auto;}
+#list .picture p{width:260px;font:12px/20px "";margin-left:10px;}
+#list .picture u{font:12px/26px "";color:#00bbd7;display: block;text-indent:10px;}
+#list .picture span{padding-left:10px;color:red;}
+
+
+
+
+
+
+
+
+

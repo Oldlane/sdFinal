@@ -1,0 +1,81 @@
+[{
+    "src":"images/shop1.jpg",
+    "name":"索尼(SONY) 55英寸 OLED 4K HDR 安卓4.0 智能电视 KD-55A8F",
+    "price":"9998.00",
+    "goodsId":"id1"
+},{
+    "src":"images/shop2.jpg",
+    "name":"西门子(SIEMENS)全自动洗衣机-滚筒洗衣机 10公斤带烘干WD14U5680W",
+    "price":"5799.00",
+    "goodsId":"id2"
+},{
+    "src":"images/shop3.jpg",
+    "name":"马歇尔(Marshall) Stanmore 摇滚重低音无限蓝牙音箱(白色)",
+    "price":"1299.00",
+    "goodsId":"id3"
+},{
+    "src":"images/shop4.jpg",
+    "name":"【新品预定】华为(HUAWEI) MateBook14 14英寸笔记本电脑(i5-865U 8G)",
+    "price":"9998.00",
+    "goodsId":"id4"
+},{
+    "src":"images/shop5.jpg",
+    "name":"产地马来西亚 进口戴森(Dyson)空气净化风扇DP04(白色)",
+    "price":"5799.00",
+    "goodsId":"id5"
+},{
+    "src":"images/shop6.jpg",
+    "name":"松下(Panasonic) 30升热风蒸烤箱NU-SC300B 热风烤箱-蒸烤一体",
+    "price":"9998.00",
+    "goodsId":"id6"
+},{
+    "src":"images/shop7.jpg",
+    "name":"华为(HUAWEI)Mate20 全网通版6GB+128GB移动联通电信 双卡双待",
+    "price":"9998.00",
+    "goodsId":"id7"
+},{
+    "src":"images/shop8.jpg",
+    "name":"华为(HUAWEI)Mate 20 X 全网通6G+128GB 移动联通电信 双卡双待",
+    "price":"9998.00",
+    "goodsId":"id8"
+},{
+    "src":"images/shop9.jpg",
+    "name":"佳明(GARMIN) Forerunner 245M 音乐版 智能运动手表(暗夜黑)",
+    "price":"9998.00",
+    "goodsId":"id9"
+},{
+    "src":"images/shop10.jpg",
+    "name":"大疆(DJI) Osmo Action 灵眸运动相机 前后双屏防抖防水相机",
+    "price":"9998.00",
+    "goodsId":"id10"
+},{
+    "src":"images/shop11.jpg",
+    "name":"【新品】 OPPO Reno 10倍变焦6.6英寸全景屏 高通骁龙855 4800万高清三摄",
+    "price":"9998.00",
+    "goodsId":"id11"
+},{
+    "src":"images/shop12.jpg",
+    "name":"联想(Lenovo) AIO 520C 23.8英寸台式电脑一体机(i5-8400T 8G 256GB+1TB)",
+    "price":"9998.00",
+    "goodsId":"id12"
+},{
+    "src":"images/shop13.jpg",
+    "name":"森海塞尔(Sennheiser)IE40PRO 监听HIFI入耳式耳机(黑色)",
+    "price":"9998.00",
+    "goodsId":"id13"
+},{
+    "src":"images/shop14.jpg",
+    "name":"B&O PLAY BEOPLAY E6 无线蓝牙磁吸入耳式耳机(黑色)",
+    "price":"9998.00",
+    "goodsId":"id14"
+},{
+    "src":"images/shop15.jpg",
+    "name":"马歇尔(MARSHALL) 无线蓝牙运动监听耳机 SE535(碳金色)",
+    "price":"9998.00",
+    "goodsId":"id15"
+},{
+    "src":"images/shop16.jpg",
+    "name":"漫步者(FDIFIER)无线低音炮游戏电竞音箱G7000(黑色)",
+    "price":"9998.00",
+    "goodsId":"id16"
+}]

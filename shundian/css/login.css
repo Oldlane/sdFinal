@@ -1,0 +1,20 @@
+
+.bg-login{height:600px;background:url(../images/bg2.jpg) no-repeat center;background-size: cover;position: relative;}
+.bg-login .log{width:350px;height:400px;background:#fff;position: absolute;top:100px;right:130px;}
+.log .log-c{padding-left:15px;box-sizing:border-box;}
+.log-c p{font:16px/60px "";color:#313131;margin-bottom:14px;}
+.log-c #loginuser{width:300px;height:42px;border:1px solid #313131;box-sizing:border-box;background:url(../images/user.png) no-repeat;padding-left:40px;}
+.log-c #loginpass{width:300px;height:42px;border:1px solid #313131;box-sizing:border-box;background:url(../images/pass.png) no-repeat;padding-left:40px;}
+.log-c .forget .forget-l{float: left;}
+.log-c .forget .forget-r{float: right;margin-right:38px;}
+
+
+.log-c #loginbtn{margin:14px 0;width:300px;height:42px;border:0;color:#fff;font:16px/42px "";border-radius:5px;background:#00bad6;}
+.log-c .aa{color:#00bad6;}
+
+
+
+
+
+
+

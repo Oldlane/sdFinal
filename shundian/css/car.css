@@ -1,0 +1,9 @@
+
+.carry{position: relative;top:50px;}
+.carry .tab{width:1000px;margin:auto;}
+.carry .tab .operation th{font:16px/40px "";}
+.carry .tab img{width:80px;padding:5px;box-sizing: border-box;}
+.carry .tab span{width:60px;height:40px;line-height:40px;display:block;text-align: center;background:skyblue;color:#fff;cursor:pointer;border-radius:5px;margin:auto;}
+.carry .tab .te{text-align: center;}
+.carry h2{margin:20px 0 0 180px;height:40px;width:160px;background:skyblue;border-radius:5px;font:20px/2 "";text-align: center;}
+.carry h2 a{color:#fff;}
